@@ -31,7 +31,7 @@ nber-econ-models-miner/
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 ### Software
 - Python 3.8+
