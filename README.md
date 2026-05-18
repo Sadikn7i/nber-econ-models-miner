@@ -1,3 +1,4 @@
+# NBER Econ Models Miner
 
 > Automatically extract and discover every economic model, econometric method, and analytical framework used across 20,000+ NBER working papers (2010–2025) using a **local AI (Ollama)** with zero API cost.
 
