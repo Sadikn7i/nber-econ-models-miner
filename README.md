@@ -125,3 +125,6 @@ No paid APIs. No cloud. Runs entirely on your local machine.
 ## License
 
 MIT free to use, modify, and share.
+
+## Notes
+Work in progress.
